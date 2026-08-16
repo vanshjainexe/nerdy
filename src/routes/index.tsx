@@ -442,7 +442,7 @@ function Index() {
               <Trophy className="h-4 w-4" />
             </button>
             <a
-              href="https://github.com/aidenybai/read-recall-race"
+              href="https://github.com/vanshjainexe/nerdy"
               target="_blank"
               rel="noreferrer"
               className="text-muted-foreground transition-colors hover:text-foreground"
