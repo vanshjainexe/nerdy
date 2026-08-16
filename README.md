@@ -1,4 +1,4 @@
-# Read Recall Race
+# Nerdy 
 
 A minimalist, high-speed reading comprehension platform built with TanStack Start, React, Tailwind CSS, and Supabase.
 
