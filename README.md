@@ -4,10 +4,9 @@ A minimalist, high-speed reading comprehension platform built with TanStack Star
 
 ## Features
 
-- **Infinite Content**: Generates reading passages dynamically using the Groq API.
-- **Global Leaderboard**: Compete globally and check your personal bests against others.
-- **Sleek Aesthetic**: Minimalist design focused heavily on typography and speed.
-- **True Retention Metrics**: WPM is calculated dynamically based on your comprehension quiz accuracy. 
+This is a sleek reading stimulator, you just read content on random topics for however long you want. And then you click ok. You answer some questions regarding the passage to test your understanding of the passage. Accordingly, you will get your wpm. And you will also get ranked on the leaderboard.
+
+If you do like this, pls do contribute :)
 
 ## Development
 
